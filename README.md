@@ -2,6 +2,8 @@
 
 A repo containing examples on creating custom annotations in PDF.js Express.
 
+All of the samples can be found in `./samples` or in the [table of contents](#table-of-contents) below
+
 ## Setup
 
 1) Install dependencies with `npm i`
