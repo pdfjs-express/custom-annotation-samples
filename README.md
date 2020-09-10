@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="217" height="42" src="https://pdfjs.express/static/img/logo/PDFJS_EXPRESS/217x42px.svg">
+  <img width="300"  src="https://pdfjs.express/static/img/logo/PDFJS_EXPRESS/217x42px.svg">
 </p>
 
 # Custom annotation samples
