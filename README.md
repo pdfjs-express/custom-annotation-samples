@@ -21,7 +21,8 @@ All of the samples can be found in `./samples` or in the [table of contents](#ta
 
 - [Creating a triangle annotation](./samples/triangle-annotation)
 - [Creating fake redaction annotations](./samples/fake-redaction-annotation)
-- [Drawing custom stamp annotations](./samples/custom-text-stamp)
+- [Drawing custom text stamp annotations](./samples/custom-text-stamp)
+- [Drawing custom image stamp annotations](./samples/custom-image-stamp)
 
 ## References
 
