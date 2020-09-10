@@ -23,6 +23,7 @@ All of the samples can be found in `./samples` or in the [table of contents](#ta
 - [Fake redaction annotations](./samples/fake-redaction-annotation)
 - [Text stamp annotations](./samples/custom-text-stamp)
 - [Image stamp annotations](./samples/custom-image-stamp)
+- [GIF annotations (proof of concept)](./samples/gif-annotation)
 
 ## References
 
