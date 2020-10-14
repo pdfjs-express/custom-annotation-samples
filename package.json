@@ -4,7 +4,7 @@
   "description": "A repo containing examples on creating custom annotations in PDF.js Express",
   "main": "server.js",
   "scripts": {
-    "copy": "cross-env rm -rf static/lib && cp -a node_modules/@pdftron/pdfjs-express/public/. static/lib && cp -a node_modules/@pdftron/pdfjs-express/webviewer.min.js static/lib/webviewer.min.js",
+    "copy": "node scripts/copy.js",
     "start": "npm run copy && node server.js"
   },
   "repository": {
@@ -29,6 +29,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "cross-env": "^7.0.2"
+    "cross-env": "^7.0.2",
+    "fs-extra": "^9.0.1"
   }
 }
